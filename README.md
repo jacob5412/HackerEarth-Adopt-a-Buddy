@@ -1,2 +1,1 @@
-# HackerEarth-Adopt-a-Buddy
-HackerEarth Adopt a Buddy
+# HackerEarth Machine Learning Challenge: Adopt a Buddy
